@@ -2,3 +2,4 @@
 Classification of Arrhythmia by Using Deep Learning with 2-D ECG Spectral Image Representation
 # Project by IBM on the domain Artificial Intelligence
 done by vijay anand.
+done by pritha.
